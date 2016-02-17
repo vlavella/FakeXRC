@@ -1,0 +1,3 @@
+[submodule "FlyWayPoc"]
+	path = FlyWayPoc
+	url = https://github.com/vlavellauruit/FlyWayPoc
