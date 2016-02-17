@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>FakeXRCPoc</id>
+    <title>Octopus Sample - Database Scripts</title>
+    <version>1.0.0</version>
+    <authors>vlavellauruit</authors>
+    <owners>vlavellauruit</owners>
+    <licenseUrl>http://localhost/license</licenseUrl>
+    <projectUrl>http://localhost/license</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Database deployment scripts for the sample application.</description>
+  </metadata>
+  <files>
+      <file src="\**" />
+  </files>
+</package>
